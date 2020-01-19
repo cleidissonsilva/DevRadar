@@ -4,9 +4,12 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev":"nodemon index.js"
+    "dev": "nodemon src/index.js"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "mongoose": "^5.8.9"
   }
 }

@@ -1,0 +1,5 @@
+/*As models são as representações de entidades dentro da nossa aplicação. 
+entidades seria aquelas informações que a gente quer armazenar dentro do BD*/
+
+Por exemplo:
+Nesse app tem a entidade Devs. ou seja, as informações dos desenvolvedores.
