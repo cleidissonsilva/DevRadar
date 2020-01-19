@@ -17,7 +17,7 @@ Route Params: usado no put ou delete - request.params (Identificar um  recurso n
 
 app.post('/users/:id',(request, response)=>{
     console.log(request.body);
-    return response.json({message: 'curso omniStak 19-01-2020'});
+    return response.json({message: 'Semana OmniStak - Domingo, 19-01-2020'});
 });
 
 app.listen(3333); //a porta do servvidor
